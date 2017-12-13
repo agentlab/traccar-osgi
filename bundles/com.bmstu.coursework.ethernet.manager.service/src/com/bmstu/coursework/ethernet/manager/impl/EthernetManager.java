@@ -32,7 +32,7 @@ import com.bmstu.coursework.ethernet.manager.model.OldNewInfoPair;
  *
  * Default implementation of {@link IEthernetManager}.
  *
- * @author Kiryakov Eugene
+ * @author Aleksei Petrov
  *
  */
 @Component(immediate = true)

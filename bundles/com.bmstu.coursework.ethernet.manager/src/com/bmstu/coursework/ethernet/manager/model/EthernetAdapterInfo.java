@@ -10,7 +10,7 @@ import java.util.Objects;
  *
  * Instance of this class represents ethernet adapter info container.
  *
- * @author Kiryakov Eugene
+ * @author Aleksei Petrov
  *
  */
 public class EthernetAdapterInfo {

@@ -11,7 +11,7 @@ import java.util.Collection;
  * Instance of this class represents ethernet adapter change event.
  * Contains removed, added and changed adapters.
  *
- * @author kiryakov_e
+ * @author Aleksei Petrov
  *
  */
 public class EthernetAdapterEvent {

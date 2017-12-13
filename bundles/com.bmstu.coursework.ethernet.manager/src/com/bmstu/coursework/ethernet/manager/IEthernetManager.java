@@ -11,7 +11,7 @@ import com.bmstu.coursework.ethernet.manager.model.EthernetAdapterInfo;
  *
  * Instance of this class sends event to listeners on ethernet adapters changes.
  *
- * @author Kiryakov Eugene
+ * @author Aleksei Petrov
  *
  */
 public interface IEthernetManager {

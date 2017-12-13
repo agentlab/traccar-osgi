@@ -8,7 +8,7 @@ package com.bmstu.coursework.ethernet.manager.model;
  * Instance of this class represents ethernet adapter info pair.
  * Contains old and new info.
  *
- * @author kiryakov_e
+ * @author Aleksei Petrov
  *
  */
 public class OldNewInfoPair {

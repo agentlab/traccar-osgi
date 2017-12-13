@@ -9,7 +9,7 @@ import com.bmstu.coursework.ethernet.manager.model.EthernetAdapterEvent;
  *
  * Instance of this class can listen {@link IEthernetManager} events.
  *
- * @author Kiryakov Eugene
+ * @author Aleksei Petrov
  *
  */
 public interface IEthernetListener {

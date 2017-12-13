@@ -12,7 +12,7 @@ import com.bmstu.coursework.ethernet.manager.model.EthernetAdapterEvent;
  *
  * Instance of this class represents remove adapter listener.
  *
- * @author kiryakov_e
+ * @author Aleksei Petrov
  *
  */
 @Component
